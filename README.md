@@ -19,18 +19,18 @@
 *** for contributors-URL, forks-URL, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
+<!-- [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![LinkedIn][linkedin-shield]][linkedin-url] -->
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <a href="https://github.com/Clayrisee/Kikuma">
-    <img src="https://user-images.githubusercontent.com/69615570/119249729-129a8500-bbc5-11eb-9e61-1cecd7084d03.png" alt="Logo" width="200" height="200">
+    <img src="Documentation Images/kikuma.png" alt="Logo" width="200" height="200">
   </a>
 
   <h2 align="center">Bangkit Capstone Project 2021: Kikuma (Penyakit Kulit Mastery)</h2>
@@ -48,6 +48,7 @@
       Report Bug</a>
     ·
     <a href="https://github.com/Clayrisee/Kikuma/issues">Request Feature</a>
+    ·
     <a href="https://documenter.getpostman.com/view/10131268/TzY1gGLG">Endpoint Documentation</a>
   </p>
 </p>
@@ -83,11 +84,11 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-<p align="center">
+<!-- <p align="center">
   <pre>
    <strong>     Splash Screen          </strong>      <strong>  Location/Maps Feature     </strong>      <strong>      Report Result</strong></pre>
 <!-- 
-<img src="https://user-images.githubusercontent.com/69615570/119268911-3a1e3b80-bc1f-11eb-98f6-96eab9172264.jpg" alt="Logo" width="270" height="576.5">&nbsp; &nbsp;<img src="https://user-images.githubusercontent.com/69615570/119268906-37bbe180-bc1f-11eb-8a67-a94e9bef21aa.jpg" alt="Logo" width="270" height="576.5">&nbsp; &nbsp;<img src="https://user-images.githubusercontent.com/69615570/119268914-3b4f6880-bc1f-11eb-8fd5-13f35a9ff090.jpg" alt="Logo" width="270" height="576.5"> -->
+<img src="https://user-images.githubusercontent.com/69615570/119268911-3a1e3b80-bc1f-11eb-98f6-96eab9172264.jpg" alt="Logo" width="270" height="576.5">&nbsp; &nbsp;<img src="https://user-images.githubusercontent.com/69615570/119268906-37bbe180-bc1f-11eb-8a67-a94e9bef21aa.jpg" alt="Logo" width="270" height="576.5">&nbsp; &nbsp;<img src="https://user-images.githubusercontent.com/69615570/119268914-3b4f6880-bc1f-11eb-8fd5-13f35a9ff090.jpg" alt="Logo" width="270" height="576.5"> --> -->
 
 
 
@@ -121,11 +122,11 @@
 <B>How to detect skin disease</B>
 1. Login to your account
 2. Choose "Camera" on the bottom navigation menu.
-3. Take a 
-4. After that choose select image to upload the pothole photo, you can use your camera or pick one from gallery. Be sure that the pothole is visible on the photo
-5. Now you can send the pothole report by tapping on the arrow on the bottom right
-6. The report then will be validated by the system
-7. you can see all the report you have made on the "My Report" menu
+3. Take a photo of your skin.
+4. After that you can add note about the skin condition before see the Magic!
+5. Now, The prediction about the type of your acne has been out! You can also see the articel related to your skin condition in Kikuma Apps!
+6. If you wanna go to beauty clinic, you can see kikuma our recommendation beauty clinic!
+7. If you want to track your skin condiition, you can see the prediction history in your profile page!
 
 <!-- <B> How to Search the pothole location</B>
 1. Choose "Search" on the menu
@@ -154,6 +155,11 @@ Distributed under the GNU GENERAL PUBLIC LICENSE VERSION 3. See `LICENSE` for mo
 
 <!-- CONTACT -->
 ## Contact
+<h1 align="center">SAMHAN-TECH</h1>
+<p align="center">
+  <a href="https://github.com/Clayrisee/Kikuma">
+    <img src="Documentation Images/samhan tech.png" alt="Logo" width="200" height="200">
+  </a>
 
 * Adam Rozaq Sobari [C0090948] - [adamsobari25@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=new)
 * Abadi Suryo Setiyo [A0090950] - [abadisuryosetiyo@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=new)
