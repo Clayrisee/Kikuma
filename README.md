@@ -30,7 +30,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Clayrisee/Kikuma">
-    <img src="https://raw.githubusercontent.com/Clayrisee/Kikuma/main/Documentation%20Images/Kikuma%20Logo.jpeg" alt="Logo" width="200" height="200">
+    <img src="Documentation Images/Kikuma Logo.jpeg" alt="Logo" width="200" height="200">
   </a>
 
   <h2 align="center">Bangkit Capstone Project 2021: Kikuma (Penyakit Kulit Mastery)</h2>
@@ -48,6 +48,7 @@
       Report Bug</a>
     ·
     <a href="https://github.com/Clayrisee/Kikuma/issues">Request Feature</a>
+    ·
     <a href="https://documenter.getpostman.com/view/10131268/TzY1gGLG">Endpoint Documentation</a>
   </p>
 </p>
@@ -83,11 +84,11 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-<p align="center">
+<!-- <p align="center">
   <pre>
    <strong>     Splash Screen          </strong>      <strong>  Location/Maps Feature     </strong>      <strong>      Report Result</strong></pre>
 <!-- 
-<img src="https://user-images.githubusercontent.com/69615570/119268911-3a1e3b80-bc1f-11eb-98f6-96eab9172264.jpg" alt="Logo" width="270" height="576.5">&nbsp; &nbsp;<img src="https://user-images.githubusercontent.com/69615570/119268906-37bbe180-bc1f-11eb-8a67-a94e9bef21aa.jpg" alt="Logo" width="270" height="576.5">&nbsp; &nbsp;<img src="https://user-images.githubusercontent.com/69615570/119268914-3b4f6880-bc1f-11eb-8fd5-13f35a9ff090.jpg" alt="Logo" width="270" height="576.5"> -->
+<img src="https://user-images.githubusercontent.com/69615570/119268911-3a1e3b80-bc1f-11eb-98f6-96eab9172264.jpg" alt="Logo" width="270" height="576.5">&nbsp; &nbsp;<img src="https://user-images.githubusercontent.com/69615570/119268906-37bbe180-bc1f-11eb-8a67-a94e9bef21aa.jpg" alt="Logo" width="270" height="576.5">&nbsp; &nbsp;<img src="https://user-images.githubusercontent.com/69615570/119268914-3b4f6880-bc1f-11eb-8fd5-13f35a9ff090.jpg" alt="Logo" width="270" height="576.5"> --> -->
 
 
 
