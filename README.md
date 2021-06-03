@@ -86,8 +86,8 @@
 <p align="center">
   <pre>
    <strong>     Splash Screen          </strong>      <strong>  Location/Maps Feature     </strong>      <strong>      Report Result</strong></pre>
-
-<img src="https://user-images.githubusercontent.com/69615570/119268911-3a1e3b80-bc1f-11eb-98f6-96eab9172264.jpg" alt="Logo" width="270" height="576.5">&nbsp; &nbsp;<img src="https://user-images.githubusercontent.com/69615570/119268906-37bbe180-bc1f-11eb-8a67-a94e9bef21aa.jpg" alt="Logo" width="270" height="576.5">&nbsp; &nbsp;<img src="https://user-images.githubusercontent.com/69615570/119268914-3b4f6880-bc1f-11eb-8fd5-13f35a9ff090.jpg" alt="Logo" width="270" height="576.5">
+<!-- 
+<img src="https://user-images.githubusercontent.com/69615570/119268911-3a1e3b80-bc1f-11eb-98f6-96eab9172264.jpg" alt="Logo" width="270" height="576.5">&nbsp; &nbsp;<img src="https://user-images.githubusercontent.com/69615570/119268906-37bbe180-bc1f-11eb-8a67-a94e9bef21aa.jpg" alt="Logo" width="270" height="576.5">&nbsp; &nbsp;<img src="https://user-images.githubusercontent.com/69615570/119268914-3b4f6880-bc1f-11eb-8fd5-13f35a9ff090.jpg" alt="Logo" width="270" height="576.5"> -->
 
 
 
@@ -120,22 +120,22 @@
 ## Usage (WIP)
 <B>How to detect skin disease</B>
 1. Login to your account
-2. Choose "Add Report" on the menu
-3. Fill the road type, and the location, you can also fill the note to inform about the pothole in detail
+2. Choose "Camera" on the bottom navigation menu.
+3. Take a 
 4. After that choose select image to upload the pothole photo, you can use your camera or pick one from gallery. Be sure that the pothole is visible on the photo
 5. Now you can send the pothole report by tapping on the arrow on the bottom right
 6. The report then will be validated by the system
 7. you can see all the report you have made on the "My Report" menu
 
-<B> How to Search the pothole location</B>
+<!-- <B> How to Search the pothole location</B>
 1. Choose "Search" on the menu
-2. Enter the address you want to search for on the search bar
+2. Enter the address you want to search for on the search bar -->
 
 
 
 
 <!-- CONTRIBUTING -->
-## Contributing
+<!-- ## Contributing
 
 Contributions make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -143,14 +143,14 @@ Contributions make the open source community such an amazing place to learn, ins
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+5. Open a Pull Request -->
 
 
 
 <!-- LICENSE -->
-## License
+<!-- ## License
 
-Distributed under the GNU GENERAL PUBLIC LICENSE VERSION 3. See `LICENSE` for more information.
+Distributed under the GNU GENERAL PUBLIC LICENSE VERSION 3. See `LICENSE` for more information. -->
 
 <!-- CONTACT -->
 ## Contact
